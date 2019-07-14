@@ -1,0 +1,19 @@
+﻿  Ball.cpp
+C:\Users\frelu\OneDrive\Skrivebord\Brickbreaker\Brickbreaker\Ball.cpp(25): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\frelu\OneDrive\Skrivebord\Brickbreaker\Brickbreaker\Ball.cpp(25): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  Board.cpp
+C:\Users\frelu\OneDrive\Skrivebord\Brickbreaker\Brickbreaker\Board.cpp(31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\frelu\OneDrive\Skrivebord\Brickbreaker\Brickbreaker\Board.cpp(32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Input-manager.cpp
+  Game.cpp
+  Main.cpp
+  Pad.cpp
+C:\Users\frelu\OneDrive\Skrivebord\Brickbreaker\Brickbreaker\Pad.cpp(5): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\frelu\OneDrive\Skrivebord\Brickbreaker\Brickbreaker\Pad.cpp(35): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\frelu\OneDrive\Skrivebord\Brickbreaker\Brickbreaker\Pad.cpp(35): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\frelu\OneDrive\Skrivebord\Brickbreaker\Brickbreaker\Pad.cpp(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\frelu\OneDrive\Skrivebord\Brickbreaker\Brickbreaker\Pad.cpp(58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Window.cpp
+  Generating Code...
+C:\Users\frelu\OneDrive\Skrivebord\Brickbreaker\Brickbreaker\Input-manager.cpp(12): warning C4715: 'inputManager::Instance': not all control paths return a value
+  Brickbreaker.vcxproj -> C:\Users\frelu\OneDrive\Skrivebord\Brickbreaker\Debug\Brickbreaker.exe
